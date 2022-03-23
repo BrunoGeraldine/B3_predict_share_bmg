@@ -66,18 +66,12 @@ The main objective of this work is to present my technical skills in data proces
 
  Run on it..
 
-years 2019, 2020, 2021
-<<<<<<< HEAD
+years 2015 to 2021
 
-https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/
-=======
-yout historycal series ibovespa:
-https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHistoricas_Layout.pdf
-~                                       
+[B3 times series - Data](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
+[File Layout - Quotations History](https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHistoricas_Layout.pdf)
+                                       
 
-
-
-Profeta: Procedimento de Previsão Automática
-O Prophet é um procedimento para prever dados de séries temporais com base em um modelo aditivo em que as tendências não lineares são ajustadas à sazonalidade anual, semanal e diária, além dos efeitos de feriados. Funciona melhor com séries temporais com fortes efeitos sazonais e várias temporadas de dados históricos. O Prophet é robusto a dados ausentes e mudanças na tendência e normalmente lida bem com valores discrepantes.
-
+ ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
+The main objective of this work is to present my technical skills in data processing and analysis as well as in the implementation of machine-learn algorithms.
 
