@@ -11,6 +11,12 @@ Applied technologies:
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159754471-50912611-bc05-4dd6-8e56-5a678c22b7a3.png"
 	     </p>
 	
+	
+<p align="left">
+	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159761744-dd023ad0-5573-43d6-8411-bccbee11a396.png"
+	     </p>
+
+	
 
 <p align="left">
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
