@@ -84,10 +84,8 @@ Applied technologies:
 ## Comparing predicted values X actual values
 	
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159766347-41576a27-e989-45f6-bd20-6b90c9cbce65.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159770225-8b39b349-eca1-45b8-aab9-5ddfa32a1b4f.png"
 	     </p>
-
-
 
 	
 	
