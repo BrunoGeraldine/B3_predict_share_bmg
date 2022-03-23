@@ -7,6 +7,26 @@
  
 Applied technologies:
 
+	
+<p align="left">
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159763266-78c6c238-ce8f-409e-a68e-4a40d93fd612.png"
+	     </p>
+
+	
+<p align="left">
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159763028-04a8034b-4cb4-49dd-9a1f-da66539fee47.png"
+	     </p>
+
+	
+<p align="left">
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159762661-ba75c3a5-d85a-4d7a-a293-54fb6c6dd687.png"
+	     </p>
+	
+	
+	
+	
+	
+	
 <p align="left">
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159754471-50912611-bc05-4dd6-8e56-5a678c22b7a3.png"
 	     </p>
@@ -16,7 +36,6 @@ Applied technologies:
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159761744-dd023ad0-5573-43d6-8411-bccbee11a396.png"
 	     </p>
 
-	
 
 <p align="left">
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159762122-2c53b719-9bd1-4d48-9501-b5b63ae3e214.png"
@@ -32,12 +51,6 @@ Applied technologies:
 	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159762382-0c6b6b0d-ce87-436e-a176-244a1b4eb3b6.png"
 	     </p>
 
-	
-<p align="left">
-	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159754895-6005d1d0-acc0-4e88-bc20-403be6981c88.png"
-	     </p>
-
-	
 	
 <p align="left">
 	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159757447-f8e814e7-c076-4980-833e-2f9c1bd61863.png"
