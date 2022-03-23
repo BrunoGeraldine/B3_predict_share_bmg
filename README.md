@@ -59,14 +59,46 @@ Applied technologies:
 	     </p>
 
 
+# Graphical representation of the forecast result:
+	
+## Model Validation:
 
+<p align="center">
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159765404-e0fbe198-8e94-48a6-8038-38b380a1cb21.png"
+	     </p>
+
+	
+## Historycal Data + PRediction
+
+<p align="center">
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159765861-30f6b185-c905-4f63-b2bb-38d19247c6a2.png"
+	     </p>
+
+
+	
+<p align="center">
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159766099-40491ebf-df1e-4546-9105-28ef519e19c7.png"
+	     </p>
+	
+	
+## Comparing predicted values X actual values
+	
+<p align="center">
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159766347-41576a27-e989-45f6-bd20-6b90c9cbce65.png"
+	     </p>
+
+
+
+	
+	
+	
  ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
 The main objective of this work is to present my technical skills in data processing and analysis as well as in the implementation of machine-learn algorithms.
  
  
  
 
- Run on it..
+ Run on it.. (the next path: Streamlit app)
 
 years 2015 to 2021
 
