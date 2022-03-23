@@ -19,7 +19,7 @@ Applied technologies:
 	
 
 <p align="left">
-	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
+	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159762122-2c53b719-9bd1-4d48-9501-b5b63ae3e214.png"
 	     </p>
 
 	
@@ -29,7 +29,7 @@ Applied technologies:
 
 	
 <p align="left">
-	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159752663-21ce91b4-b582-4a35-bab5-a78a52652115.png"
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159762382-0c6b6b0d-ce87-436e-a176-244a1b4eb3b6.png"
 	     </p>
 
 	
