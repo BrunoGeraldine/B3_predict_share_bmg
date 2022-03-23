@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159760753-09d3e241-f03f-4bcb-9522-734ed8a873c1.png)"
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159761251-5fe36a23-d9ec-4fef-af06-06e470ab5824.png"
        </p>
 
 ## B3_predict_shares by, Bruno Geraldine
@@ -37,15 +37,7 @@ Applied technologies:
 	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159757447-f8e814e7-c076-4980-833e-2f9c1bd61863.png"
 	     </p>
 
-# Graphical representation of the forecast result:
 
-<p align="center">
-	<img width="950" height="400" src="https://user-images.githubusercontent.com/87772120/159749243-0c1d791e-0572-4cad-ac21-af4713521c4c.png"
-	     </p>
-
-<p align="center">
-	<img width="950" height="400" src="https://user-images.githubusercontent.com/87772120/159758249-1adb9149-7a12-410c-9f78-2ea6163fd8ec.png"
-	     </p>
 
  ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
 The main objective of this work is to present my technical skills in data processing and analysis as well as in the implementation of machine-learn algorithms.
