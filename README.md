@@ -4,6 +4,8 @@
        </p>
 
 ## B3_predict_shares by, Bruno Geraldine
+	
+	This project forecasts PETR4 assets belonging to the Petrobras company only for use in the application in the TensorFlow-Keras machine learning algorithm, which can be replicated to any other asset.
  
 Applied technologies:
 
