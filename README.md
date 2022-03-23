@@ -19,4 +19,7 @@ https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHist
 
 
 
+Profeta: Procedimento de Previsão Automática
+O Prophet é um procedimento para prever dados de séries temporais com base em um modelo aditivo em que as tendências não lineares são ajustadas à sazonalidade anual, semanal e diária, além dos efeitos de feriados. Funciona melhor com séries temporais com fortes efeitos sazonais e várias temporadas de dados históricos. O Prophet é robusto a dados ausentes e mudanças na tendência e normalmente lida bem com valores discrepantes.
+
 
