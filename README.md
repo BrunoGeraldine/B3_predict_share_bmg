@@ -107,3 +107,4 @@ years 2015 to 2021
  ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
 The main objective of this work is to present my technical skills in data processing and analysis as well as in the implementation of machine-learn algorithms.
 
+#The End!
