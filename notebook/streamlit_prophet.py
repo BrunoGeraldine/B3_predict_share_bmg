@@ -2,8 +2,8 @@ import streamlit as st
 import yfinance as yf
 from datetime import date
 import pandas as pd
-from fbprophet import Prophet
-from fbprophet.plot import plot_plotly, plot_components_plotly
+from prophet import Prophet
+from prophet.plot import plot_plotly, plot_components_plotly
 from plotly import graph_objs as go
 
 # Craindo as data
@@ -31,7 +31,7 @@ nome_acao_escolhida = st.sidebar.selectbox('Escolha uma ação: ', acao)
 
 df_acao = df[df['snome'] == nome_acao_escolhida]
 acao_escolhida = df_acao.iloc[0]['sigla_acao']
-acao_escolhida = acao_escolhida + '.SA' #formato esperado pelo yfinance
+acao_escolhida = acao_escolhida + '.SA' #formato exigido pelo yfinance
 
 #st.write(df_acao.iloc[0]['sigla_acao']) #Captura apenas a sigla da ação
 
@@ -39,7 +39,7 @@ acao_escolhida = acao_escolhida + '.SA' #formato esperado pelo yfinance
 @st.cache #utiliza a função e guarda em cache para agilizar o dashboard (tipo um arq temporario)
 def pegar_valores_online(sigla_acao):
     df = yf.download(sigla_acao, DATA_INICIO, DATA_FIM) # EXECUTA DOWNLOAD ONLINE
-    df.reset_inde(inplace=True) #reseta o index pelo campo data
+    df.reset_index(inplace=True) #reseta o index pelo campo data
     return df
 
 # Capturar os valores
@@ -85,4 +85,4 @@ gra1 = plot_plotly(modelo, previsao)
 st.plotly_chart(gra1)
 
 gra2 = plot_components_plotly(modelo, previsao)
-st.st.plotly_chart(gra2)
+st.plotly_chart(gra2)
