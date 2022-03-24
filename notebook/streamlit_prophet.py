@@ -86,3 +86,5 @@ st.plotly_chart(gra1)
 
 gra2 = plot_components_plotly(modelo, previsao)
 st.plotly_chart(gra2)
+
+#the end!
