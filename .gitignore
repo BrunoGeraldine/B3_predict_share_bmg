@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 *.TXT
-*.CSV
-*.csv
+#*.CSV
+#*.csv
 
 # Distribution / packaging
 .Python
