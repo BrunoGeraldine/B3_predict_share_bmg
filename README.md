@@ -64,7 +64,7 @@ Applied technologies:
 ## Model Validation:
 
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159765404-e0fbe198-8e94-48a6-8038-38b380a1cb21.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161988585-06b1889a-ee88-4aaa-b69c-5bfc00be53f6.png"
 	     </p>
 
 	
