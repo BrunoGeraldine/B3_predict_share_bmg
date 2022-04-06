@@ -71,7 +71,7 @@ Applied technologies:
 ## Historycal Data + PRediction
 
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159765861-30f6b185-c905-4f63-b2bb-38d19247c6a2.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161988795-81e4e60d-2b82-4d84-870a-596ca770681e.png"
 	     </p>
 
 
