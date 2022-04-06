@@ -77,7 +77,7 @@ Applied technologies:
 
 	
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159766099-40491ebf-df1e-4546-9105-28ef519e19c7.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161989119-4d79c10c-fe84-40ee-8c10-51866a595963.png"
 	     </p>
 	
 	
