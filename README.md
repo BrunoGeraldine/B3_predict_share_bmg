@@ -64,27 +64,27 @@ Applied technologies:
 ## Model Validation:
 
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159765404-e0fbe198-8e94-48a6-8038-38b380a1cb21.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161988585-06b1889a-ee88-4aaa-b69c-5bfc00be53f6.png"
 	     </p>
 
 	
 ## Historycal Data + PRediction
 
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159765861-30f6b185-c905-4f63-b2bb-38d19247c6a2.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161988795-81e4e60d-2b82-4d84-870a-596ca770681e.png"
 	     </p>
 
 
 	
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159766099-40491ebf-df1e-4546-9105-28ef519e19c7.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161989119-4d79c10c-fe84-40ee-8c10-51866a595963.png"
 	     </p>
 	
 	
-## Comparing predicted values X actual values
+## Comparing between predicted values X actual values
 	
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159770225-8b39b349-eca1-45b8-aab9-5ddfa32a1b4f.png"
+	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161990578-5c92123b-6d5d-430c-8541-99ee4c9fcc4b.png"
 	     </p>
 
 	
