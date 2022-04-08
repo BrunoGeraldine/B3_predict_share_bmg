@@ -104,7 +104,4 @@ years 2015 to 2021
 [File Layout - Quotations History](https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHistoricas_Layout.pdf)
                                        
 
- ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
-The main objective of this work is to present my technical skills in data processing and analysis as well as in the implementation of machine-learn algorithms.
-
 #The End!
